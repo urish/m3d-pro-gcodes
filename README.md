@@ -18,3 +18,7 @@ Latest software: http://printm3d.com/downloads/pro
 * [Y Gantry Leveling](https://docs.google.com/document/d/1twPgL7uPxtelTZUukmtbl5FjPYbunJwcp7SGNWFjLC0/edit)
 * [Gantry Adjustment Tutorial](https://docs.google.com/document/d/1p7O7IKbsAEbeOfwrJKMb9GbnoKSQBMfOaMnjzr2en0M/edit)
 * [M3D Pro Disassembly Guide (PDF)](https://cdn.discordapp.com/attachments/300304086186721283/312711677369909259/M3DProDisassembly.pdf)
+
+## Troubleshooting 
+
+* [Prints disconnect from the bed mid-printing](prints-dont-stick.md)
