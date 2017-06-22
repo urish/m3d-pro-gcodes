@@ -17,6 +17,7 @@ Latest software: http://printm3d.com/downloads/pro
 * [How to calibrate the Z axis (nozzle tip)](https://docs.google.com/document/d/1KP7YsxjqRKWcObV6CRK5-KZcS5CjOuIDcJkh4Ew4VcQ/edit)
 * [Y Gantry Leveling](https://docs.google.com/document/d/1twPgL7uPxtelTZUukmtbl5FjPYbunJwcp7SGNWFjLC0/edit)
 * [Gantry Adjustment Tutorial](https://docs.google.com/document/d/1p7O7IKbsAEbeOfwrJKMb9GbnoKSQBMfOaMnjzr2en0M/edit)
+* [Heater PCB installation guide](https://docs.google.com/document/d/1JXeB49xS7k1D9zRDsBQ8U5bSkEgqd0DqDp9KvSZHYv0/edit)
 * [M3D Pro Disassembly Guide (PDF)](https://cdn.discordapp.com/attachments/300304086186721283/312711677369909259/M3DProDisassembly.pdf)
 
 ## Troubleshooting 
